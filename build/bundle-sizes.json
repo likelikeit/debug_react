@@ -1,0 +1,137 @@
+{
+  "bundleSizes": [
+    {
+      "filename": "react.development.js",
+      "bundleType": "NODE_DEV",
+      "packageName": "react",
+      "size": 91844,
+      "gzip": 24754
+    },
+    {
+      "filename": "react.production.min.js",
+      "bundleType": "NODE_PROD",
+      "packageName": "react",
+      "size": 7959,
+      "gzip": 2978
+    },
+    {
+      "filename": "react-jsx-runtime.development.js",
+      "bundleType": "NODE_DEV",
+      "packageName": "react",
+      "size": 42076,
+      "gzip": 12304
+    },
+    {
+      "filename": "react-jsx-runtime.production.min.js",
+      "bundleType": "NODE_PROD",
+      "packageName": "react",
+      "size": 859,
+      "gzip": 541
+    },
+    {
+      "filename": "react-jsx-runtime.profiling.min.js",
+      "bundleType": "NODE_PROFILING",
+      "packageName": "react",
+      "size": 858,
+      "gzip": 540
+    },
+    {
+      "filename": "react-jsx-dev-runtime.development.js",
+      "bundleType": "NODE_DEV",
+      "packageName": "react",
+      "size": 41477,
+      "gzip": 12128
+    },
+    {
+      "filename": "react-jsx-dev-runtime.production.min.js",
+      "bundleType": "NODE_PROD",
+      "packageName": "react",
+      "size": 343,
+      "gzip": 256
+    },
+    {
+      "filename": "react-jsx-dev-runtime.profiling.min.js",
+      "bundleType": "NODE_PROFILING",
+      "packageName": "react",
+      "size": 342,
+      "gzip": 254
+    },
+    {
+      "filename": "react-dom.development.js",
+      "bundleType": "NODE_DEV",
+      "packageName": "react-dom",
+      "size": 1052770,
+      "gzip": 235805
+    },
+    {
+      "filename": "react-dom.production.min.js",
+      "bundleType": "NODE_PROD",
+      "packageName": "react-dom",
+      "size": 136637,
+      "gzip": 43653
+    },
+    {
+      "filename": "react-dom.profiling.min.js",
+      "bundleType": "NODE_PROFILING",
+      "packageName": "react-dom",
+      "size": 146062,
+      "gzip": 46143
+    },
+    {
+      "filename": "scheduler.development.js",
+      "bundleType": "NODE_DEV",
+      "packageName": "scheduler",
+      "size": 17497,
+      "gzip": 4928
+    },
+    {
+      "filename": "scheduler.production.min.js",
+      "bundleType": "NODE_PROD",
+      "packageName": "scheduler",
+      "size": 4235,
+      "gzip": 1782
+    },
+    {
+      "filename": "scheduler-unstable_mock.development.js",
+      "bundleType": "NODE_DEV",
+      "packageName": "scheduler",
+      "size": 17457,
+      "gzip": 4195
+    },
+    {
+      "filename": "scheduler-unstable_mock.production.min.js",
+      "bundleType": "NODE_PROD",
+      "packageName": "scheduler",
+      "size": 4786,
+      "gzip": 1935
+    },
+    {
+      "filename": "scheduler-unstable_post_task.development.js",
+      "bundleType": "NODE_DEV",
+      "packageName": "scheduler",
+      "size": 6883,
+      "gzip": 2083
+    },
+    {
+      "filename": "scheduler-unstable_post_task.production.min.js",
+      "bundleType": "NODE_PROD",
+      "packageName": "scheduler",
+      "size": 1969,
+      "gzip": 845
+    },
+    {
+      "filename": "jest-react.development.js",
+      "bundleType": "NODE_DEV",
+      "packageName": "jest-react",
+      "size": 9928,
+      "gzip": 3455
+    },
+    {
+      "filename": "jest-react.production.min.js",
+      "bundleType": "NODE_PROD",
+      "packageName": "jest-react",
+      "size": 2353,
+      "gzip": 1141
+    }
+  ]
+}
